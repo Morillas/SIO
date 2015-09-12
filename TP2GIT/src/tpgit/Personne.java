@@ -6,7 +6,6 @@ public class Personne {
 	private String adresse;
 	private Compte monCompte=null;
 	private String nom;
-	private String date;
 	
 	// Constructeurs
 	// Cas ou la personne à un compte (1 en multiplicité de l'association)
